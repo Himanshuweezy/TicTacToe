@@ -1,0 +1,23 @@
+.box{
+    background-color: #FFE7BF;box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    padding: 1rem;
+    color:#2C3639;
+    font-weight: 900;
+    font-size: 3rem;
+    width: 4rem;
+    height: 4rem;
+}
+.border-left{
+border-left: 1px solid black;
+margin-left: 1rem;
+}
+.border-bottom{
+border-bottom: 1px solid black;
+margin-bottom: 1rem;
+}
+.border-right{
+   border-right: 1px solid black; 
+}
+.border-top{
+    border-top: 1px solid black;
+}

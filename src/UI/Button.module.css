@@ -1,0 +1,36 @@
+.btn {
+  
+  padding: .9rem .9rem;
+  margin: 3rem 45% 0 45%;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+  
+  text-align: center;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  cursor: pointer;
+  border: none;
+  color: white;
+  border-radius: 12px;
+  transition: 200ms all ease-in-out;
+  background-color: blueviolet;
+  font-size: 1.3rem;
+  
+}
+
+
+
+/* .btn:hover, */
+.btn:active {
+ 
+  transform: translateY(2px);
+  box-shadow: none;
+ 
+ 
+}
+
+.btn.alternative {
+  color: #220131;
+  border-color: transparent;
+  background-color: transparent;
+ 
+}
+
